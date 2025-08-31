@@ -69,14 +69,12 @@ Each includes day vs night error breakdown (MAE, RMSE):
 
 ### ⚫ Baseline – Black-box Model vs Experimental
 
+![Black-box Comparison](roof_blackbox_comparison.png)
 
-![PINN Comparison](roof_pinn_comparison.png)
 ---
 
 ### ⚗️ Final – PINN-Corrected RC Model vs Experimental
 
-![Black-box Comparison](roof_blackbox_comparison.png)
 
-
-
+![PINN Comparison](roof_pinn_comparison.png)
 
